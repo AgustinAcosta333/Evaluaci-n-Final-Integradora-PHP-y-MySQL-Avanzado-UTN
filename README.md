@@ -1,5 +1,7 @@
 Proyecto de Sistema de Administración de Turnos para Taller Mecánico
 
+Video: https://www.youtube.com/watch?v=IzsZOLcE7_A
+
 Tiene como objetivo desarrollar una aplicación web que permita a los usuarios solicitar turnos para reparaciones o atenciones a sus automóviles sin la necesidad de registrarse. 
 El sistema también permite a un administrador gestionar (aprobar, cancelar, trabajar y finalizar) estos turnos.
 Cuenta con dos funcionalidades Principales:
