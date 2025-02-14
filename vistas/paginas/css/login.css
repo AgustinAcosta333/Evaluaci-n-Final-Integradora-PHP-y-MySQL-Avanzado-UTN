@@ -1,0 +1,106 @@
+/* login.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+header button a {
+    color: white;
+    text-decoration: none;
+}
+
+header button:hover {
+    background-color: #777;
+}
+
+h2 {
+    color: #333;
+    margin-top: 80px; /* Ajustar para compensar el header */
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.form-container {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
+
+.form-container h3 {
+    color: #333;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container input[type="text"],
+.form-container input[type="password"],
+.form-container input[type="submit"] {
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.form-container input[type="submit"] {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.form-container input[type="submit"]:hover {
+    background-color: #555;
+}
+
+h3 {
+    color: red; /* Para resaltar el mensaje de error */
+}
