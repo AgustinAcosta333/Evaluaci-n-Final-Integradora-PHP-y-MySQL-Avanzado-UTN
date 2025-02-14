@@ -20,7 +20,8 @@
         <div class="about">
 
             <h2>Sobre nosotros</h2>
-            <p>Contamos con un equipo de profesionales apasionados y dedicados, con experiencia en diversas áreas como la tecnología, el comercio y la atención al cliente. Juntos, trabajamos para garantizar que cada pedido se gestione de manera eficiente y que cada cliente reciba un servicio de calidad.</p>
+            <p>Contamos con un equipo de profesionales apasionados y dedicados, con experiencia en diversas áreas como la tecnología, el comercio y la atención al cliente. 
+                Juntos, trabajamos para garantizar que cada pedido se gestione de manera eficiente y que cada cliente reciba un servicio de calidad.</p>
         </div>
 
         <h2>Nuestros servicios</h2>
